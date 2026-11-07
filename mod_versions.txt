@@ -21,3 +21,10 @@ HelziMoneyRubleDLC_DATA=1.30
 HelziRecoveryCase_CLIENT=1.30
 HelziRecoveryCase_DATA=1.30
 HelziRecoveryCase_SERVER=1.30
+
+HelziRepairVehicle_CLIENT=1.30
+HelziRepairVehicle_DATA=1.30
+HelziRepairVehicle_SERVER=1.30
+
+HelziVehicleFinder_CLIENT=1.30
+HelziVehicleFinder_SERVER=1.30
