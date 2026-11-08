@@ -26,5 +26,9 @@ HelziRepairVehicle_CLIENT=1.30
 HelziRepairVehicle_DATA=1.30
 HelziRepairVehicle_SERVER=1.30
 
+HelziTrashCan_CLIENT=1.30
+HelziTrashCan_DATA=1.30
+HelziTrashCan_SERVER=1.30
+
 HelziVehicleFinder_CLIENT=1.30
 HelziVehicleFinder_SERVER=1.30
